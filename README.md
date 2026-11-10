@@ -17,7 +17,7 @@
 ### MySejahtera Symptom Triage Advisor
 A proposed rule-based Clinical Decision Support System (CDSS) that helps users understand symptom urgency and appropriate healthcare next steps.
 
-[View Project Repository](https://github.com/Zafirahhhhh/mysejahtera-symptom-triage-advisor)
+[View Project Repository](https://github.com/Zafirahhhhh/CSC649_symptom_triage_advisor.git)
 
 
 ---
