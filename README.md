@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there My Name is Nur Zafirah Aliah 👋
 
-<!--
-**Zafirahhhhh/Zafirahhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science student at Universiti Teknologi MARA (UiTM).
+- Interested in software development, artificial intelligence and technology.
+- Currently improving my programming and problem-solving skills.
+- Learning and exploring new technologies through academic projects.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Python, Java, C++,HTML,PHP,CSS
+- **Database:** SQL
+- **Tools:** GitHub, Visual Studio Code,BlueJ,Weka,SWI-Prolog,XAMPP
+- **Other:** Microsoft Office, Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### MySejahtera Symptom Triage Advisor
+A proposed rule-based Clinical Decision Support System (CDSS) that helps users understand symptom urgency and appropriate healthcare next steps.
+
+[View Project Repository](https://github.com/Zafirahhhhh/mysejahtera-symptom-triage-advisor)
+
+
+---
+⭐ Thank you for visiting my profile!
